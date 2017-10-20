@@ -1,0 +1,127 @@
+ 速览版 | 开智沙 第 57 场分享:胡悦—— NEUROECONOMICS: WHEN ANIMALS ARE DOING BUSINESS
+说明:此版本为  开智书友会群友阅读制作，请勿外传。
+开智书友会线上沙 研讨会，2017   10   12   19:42，总第 57 期 主题:NEUROECONOMICS: WHEN ANIMALS ARE DOING BUSINESS 主讲:胡悦博 ，神经科学博 后
+ 家晚上好，我是胡悦，神经科学博 后。 物狗出身，2015 毕业于浙江 学管 学院获博  学位，师从 庆国教授，研究个体的经济/社会决策。现在德国杜塞尔多夫 学Comparative Psychology实验室从事神经经济学 向的博 后研究， 前的研究课题是基于  的 为学范式 研究需求 论中budget effect的神经科学机制。
+感谢阳 和倪 师的邀请，有机会来分享 些我  对神经经济学(Neuroeconomics)的认识 和 解。我会分为4个部分来介绍，内容将着重于   前的研究 向:消费者 为的动物模 型。
+Part1 神经经济学(Neuroecon: still simple and naive);
+Part2 经济决策 为的动物模型: 需求 论 (budget effect in demand theory) 和延时决策 (delay discounting) ;
+Part3 社会决策 为的动物模型: 平等厌恶(inequality aversion)和亲社会性 (prosociality);
+Part4 彩蛋 沉没成本 (sunk cost) 和后 的   (regret in rats)。
+Part1 神经经济学
+前 久 2017  诺奖经济学开出，继 02   Daniel Kahneman 之后， 为经济学家 Richard Thaler   独中 奖。朋友圈 搞 为和神经经济学的 伙伴们集体“ 潮”，前者与有荣焉，后 者纷纷开始掰着 指头 YY: 为经济学家都拿两次 ，Ernst Fehr, Colin Camerer, Paul Glimcher 这 位 Neuroecon  佬的诺奖还会远吗?
+窃以为还得 少两三个巴掌的时间吧......
+        
+ 那么神经经济学是 么?摘  2016  最新版《Handbook of Experimental Economics》中 Chapter3 《Neuroeconomics》(该章节是由上 提及的三位 佬以及 Jonathan Cohen 和 David Laibson 五 共同撰写)的  话:
+Neuroeconomics is the study of the biological microfoundations of economic cognition and economic behavior.
+ 中的另外  可以为神经经济学正名:
+..., but neuroeconomic research does not necessarily require a departure from classical economic assumptions (e.g., rationality and dynamic consistency). ... To be a neuroeconomist you need to take an interest in the operation of the brain, but you don’t need to prejudge its rationality.
+概括之，神经经济学研究经济学 为和认知过程的微观 物学基础，但其研究(的 论基础)并   定与传统经济学假设( 如 性 和动态 致性)相违背。
+ 
+   
+Part2 经济决策 为的动物模型
+值得 提的是，这本《Handbook of Experimental Economics》的两位主编之  John Kagel(另外 位是 12  诺 尔经济学奖得主 Alvin Roth)在上世纪 70  代曾进   系 开 创性的动物实验和 论 作，他们使 鸽 和  来研究需求 论和 险偏好 为，其结果 乎 都发表在 经济学顶级期刊上。
+可惜的是，Kagel 等 并没有在这个 向继续做下去，之后回归 传统经济学。纽约 学实验经 济学家 Guillaume R. Fréchette 曾在 2014  写下 段评论:
+“As many economists do not even know that there are papers reporting economic experiments conducted on animals, it might even be more puzzling to realize how well published they are. It is even more surprising when considering that the earlier ones were published at a time where laboratory experiments with humans were not common.”
+去 神经经济学会议，在柏 遇到 位特拉维夫 学的教授 Dino Levy(Paul Glimcher 的博  后)说起 Kagel，他亦 分感慨说 Kagel 在经济学上的学术贡献被严重忽视/低估 。
+2.1 需求 论
+Kagel 等 把 物学/  学家的实验 法(严格可控的实验程序)与经济学 论和范式(A-B-A 结构)结合起来，研究商品价格(price)和个 预算(budget)如何影响消费者需求 (demand)。他们为  们(rat consumers)准备 两种饮 商品(rewards):Root Bear 和 Tom Collins Mix。  通过按压实验笼 内的杠杆(lever)使之收缩来获取饮 。
+每 份饮 所需要按压杠杆的次数，等同于饮 的价格(price);  每天可按压杠杆的次数， 等同于他们可 配的预算(budget)。实验者通过程序来控制和改变 同实验条件下的饮 价格 和可 配预算。
+Kagel 的  们表现出符合 Slutsky-Hicks 需求 论的 为:
+the animals consume more of the good that has fallen in price, resulting in downward sloping income-compensated demand curves, ..., which represents an important extension of economic principles to nonhumans.
+他们之后 鸽 作为实验动物，重复 类似的实验和结果。
+参考 献:
+Kagel, J. H., Battalio, R. C., Rachlin, H., Green, L., Basmann, R. L., & Klemm, W. R. (1975). Experimental studies of consumer demand behavior using laboratory animals. Economic Inquiry, 13(1), 22-38.
+     
+ Battalio, R. C., Green, L., & Kagel, J. H. (1981). Income-leisure tradeoffs of animal workers. The American Economic Review, 71(4), 621-632.
+Kagel, J. H., Battalio, R. C., & Green, L. (1995). Economic choice theory: An experimental analysis of animal behavior. Cambridge University Press.
+30  后，Keith Chen  卷尾猴(Capuchin monkey)也做 类似的实验。他们训练猴 使 筹 码(token)来换取两种 物(苹果或者葡萄/ gelatin cube)，并改变 物的价格和可交换筹码 的数 来研究在 同的价格区间和预算 平下，猴 如何做交 。
+ 
+图中，猴 的原始预算 平是 12 个筹码，苹果和葡萄/gelatin cube 的价格相等(baseline，实 线);随后苹果的价格降低，葡萄/gelatin cube 价格 变，并相应地降低猴 们的预算 平(虚 线)。与 Kagel 的  们相似，在购买  变的情况下，三只猴 均调整   的消费 平，  筹码交换 多价格 宜的苹果。
+故事最后的......最后，猴 们还学会  筹码做 些“情 ”交 ，有兴趣的 家可以翻墙到油管 围观花絮。https://www.youtube.com/watch?v=J8449HgS3FM
+   
+  参考 献:
+Chen, M. K., Lakshminarayanan, V., & Santos, L. R. (2006). How basic are behavioral biases? Evidence from capuchin monkey trading behavior. Journal of Political Economy, 114(3), 517-537.
+40  后，我们实验室在 Kagel 等 的范式基础上，优化和改进 需求 论的动物模型。这次， 我们 请  们 酒， 是投喂巧克 和 草味道的 奶。使  Skinner box 来控制实验的流程 和条件。 奶的价格被标注为 同数 的 nose-poke(此处盗  Gu 师姐的 张图)。
+ 
+ 
+   
+由于对两种 奶进   同程度的兑 ，在 baseline 时，两种 奶价格相等，  都会偏好甜度   的巧克  奶。baseline 后，巧克  奶价格上涨& 草 奶价格下跌，  在新价格下的 预算 平(即，可 配的 nose-poke 总数)保持 变(Uncompensated budget，UC)或者相 应上涨(Compensated budget，C)。
+根据 奶的消耗 (q)和价格 (pi/pj)来计算需求弹性(demand elasticity, ε)，并对 在 UC 和 C 的情况下，需求弹性的  和变化。需求弹性越 (或者说，越负)，表示消费 受价 格影响越 。
+   
+如上图左，在巧克  奶的价格上涨时，如果预算没有变化(UC)，  们对昂贵的巧克   奶的需求弹性增 ，转 去消费 多 宜的 草 奶;如果预算有得到相应的增加(C)来弥补 价格上涨所造成的购买 下降，  们对昂贵的巧克  奶的需求弹性显著降低。这些结论与 Kagel 等 的研究基本 致。
+ 仅如此， time-resolved analysis of choice distributions provides an important extension of the analyses employed in the Kagel papers: our results indicate dynamics in choice distributions that vary with budget conditions and highlight that these differences in choice distributions are ... due to a difference in sequential choice structure—putatively reflecting altered relative valuation of the choice options, between budget conditions.
+(上图右)简 之，可 配预算的  对消费 平的影响，并 是简单因为钱多 所以买得多;  是因为影响 消费者对物品的value(价值评估)。
+基于此，我们想进 步探讨这种 value-based decision making 的神经科学机制。
+Kagel 在他的 章中阐述 使 动物研究经济学问题的优势。
+第 ，受制于 类社会的复杂性，我们在实验环境中给定的条件，常常缺乏 够的诱惑 或者限
+制性。但是对于动物来说，获得 物即是 存的原动 ，有此所表现出来的 为模式也能反映出
+他们对可 配资源的最 化和最 性  。
+第 ，从进化论的 度来说，在 同物种(  ，猴 ， 童)中对经济学基本原 的检验，有
+助于我们 解复杂经济决策的社会和 物演化机制。
+第三，Kagel 等 在 40  前并没有意识到的，this line of research has served as a conduit for economic ideas into other disciplines: psychology, biology, and neuroscience. 于是，神经经济 学华丽丽出场。
+ 我们使 神经药 学的办法， 如脑内注射多巴胺抑制剂和神经毒性药物等， 扰或者损坏某个 特定的脑区，来观察  消费 为的改变。经过 轮实验，我们发现损坏 anterior cingulate cortex(前扣带回，ACC [Fig.5])，  在 C 和 UC 两种预算 平下的 为没有显著变化，且这 种 差异是由于在价格上涨但预算 变化的情况下，  没有减少消费昂贵的巧克  奶造成 的。
+ 
+经济学中的 money illusion(货币幻觉)可以很好地解释 ACC 损伤与对照组  的 为。 Money illusion 是指消费者倾向于认定货币的名 价值(nominal value)  是实际价值(real value)即购买 (purchase power)， 如通货膨胀时，物品价格上涨，即使政府上调  资  平以维持原有的购买 ，消费者依然会减少昂贵商品的消费，  视可 配预算的增加。 这与 ACC 损伤的  类似:预算的多少对于消费 为的影响被消减 ，  们只依据单位价格 (nose-poke)的 nominal value 来“买 奶”。
+参考 献:
+Kagel, J. H., Battalio, R. C., Rachlin, H., & Green, L. (1981). Demand curves for animal consumers. The Quarterly Journal of Economics, 96(1), 1-15.
+van Wingerden, M., Marx, C., & Kalenscher, T. (2015). Budget Constraints Affect Male Rats’ Choices between Differently Priced Commodities. PloS one, 10(6), e0129581. Kalenscher, T., & Van Wingerden, M. (2011). Why we should use animals to study economic decision making–a perspective. Frontiers in neuroscience, 5.
+Weber, B., Rangel, A., Wibral, M., & Falk, A. (2009). The medial prefrontal cortex exhibits money illusion. Proceedings of the National Academy of Sciences, 106(13), 5025-5028.
+2.2 延时决策(intertemporal decisions)   们常说，  在 胜过双 在 。其实  们也是这么认为的。
+     
+ 延时决策  /鸽 的 为模型与 human research 类似，动物选择 small sooner reward OR larger late reward。 般来说，会给定 small sooner reward  变，然后增加 delay 的时间，来观 察决策者选择的转变(下图A&B)，画出 k 曲线(下图 C):
+The discounted value of a delayed reinforcer is modeled by a hyperbolic function. f (delay) = (1 + K × delay). Higher K-values (red) are characteristic of greater impulsive choice.
+  (整体图)
+ 
+ (图A)
+ 
+  (图B)
+ 
+   
+动物药 学实验 target 到 系 与延时决策相关的脑区和神经环 (如下图)，主要与眶额 层
+(图C)
+(OFC)，mesolimbic pathway, 边缘系统部分脑区(BLA, STN)有关。
+  
+另外鸽 的颅内电  实验记录前额 层的神经元放电 “revealed that neural delay activation decreased with increasing delay length but also covaried with the expected reward amount. This integrated neural response was modulated by reward amount and delay, as predicted by a hyperbolical equation, of subjective reward value derived from behavioral studies.”
+参考 献:
+Kalenscher, T., Windmann, S., Diekamp, B., Rose, J., Gu, O., & Colombo, M. (2005). Single units in the pigeon brain integrate reward amount and time-to-reward in an impulsive choice task. Current Biology, 15(7), 594-602.
+McClure, J., Podos, J., & Richardson, H. N. (2014). Isolating the delay component of impulsive choice in adolescent rats. Frontiers in Integrative Neuroscience, 8.
+  
+ Kalenscher, T., & Pennartz, C. M. (2008). Is a bird in the hand worth two in the future? The neuroeconomics of intertemporal decision-making. Progress in neurobiology, 84(3), 284- 315.
+Bailey, M. R., Simpson, E. H., & Balsam, P. D. (2016). Neural substrates underlying effort, time, and risk-based decision making in motivated behavior. Neurobiology of learning and memory, 133, 233-256.
+Part3 社会决策 为的动物模型
+ 为经济学家认为 是  性的，表现之 为社会博弈中的 平等厌恶(inequality aversion, IA)。根据 Fehr 和 Schmidt 的 论， 平等厌恶分为两种，disadvantageous IA 和 advantageous IA。前者指，对 的收益优于  时， 喜;后者指，  的收益优于对 时， 亦会为 ta 抱 平。
+ 物学家和  学家陆续研究  Chimpanzees, rats, dogs, marmosets 等多种群居动物的 平等 厌恶 为。Brosnan 等 发现，当 capuchin monkeys 和 Chimpanzees 发现他们的同伴获得     好的 物时(disadvantageous IA)，他们会拒绝继续参与实验;但是对于 advantageous IA 的情况，则欣然接受。但是 disadvantageous IA 只存在于社会关系紧密的 Chimpanzees 群体中。
+Range 等 在 dogs 上重复  Chimpanzees 的实验，发现 dogs 也表现 些 disadvantageous IA 的“初始症状”，相较于 物的好坏或者多少，他们 关 同伴到底有没有获得这些 物。
+Proctor 等 教 Chimpanzees 和 童完成类似最后通牒和独裁者博弈的实验，发现他们均表现出 与成 被试相似的 为反应:Partner 存在时，选择公平分配的 token;Partner  存在时，选择 有 于  的 token。
+我们实验室也发现   的 disadvantageous IA。把两只  放在下图所示的 social maze 中，  只为 actor，在公平分配和  于  的 公平分配中选择;另 只为 partner，没有决策权。 我们发现当 partner 是活的  时，与 partner 是 rat toy 相 ，actor 表现出 加强 的 IA;并 且笼 内的社会等级(social-hierarchy)也会影响  的 IA， dominant animals showed higher IA than subordinate animals。
+     
+ 据我所知， 前还没有 进 步的神经科学机制来解释动物 为的 IA。但我们实验室另外 个研 究，使 类似的 social maze 研究  的亲社会 为，并 药 学 段损坏  的 Basolateral amygdala(BLA)，发现 BLA 损伤的  ，亲社会性被消减。Gu 师姐在两周前分享 杏仁核与 恐惧情绪剪 断  乱的关系;在决策领域，BLA 被认为参与  presenting reward value and social information 的神经环 ，它与 ACC 和眶额 层都有紧密的神经联系。
+参考 献:
+Fehr, E., & Schmidt, K. M. (1999). A theory of fairness, competition, and cooperation. The quarterly journal of economics, 114(3), 817-868.
+Brosnan, S. F., & de Waal, F. B. (2004). Animal behaviour: fair refusal by capuchin monkeys. Nature, 428(6979), 140-140.
+Brosnan, S. F., Schiff, H. C., & De Waal, F. B. (2005). Tolerance for inequity may increase with social closeness in chimpanzees. Proceedings of the Royal Society of London B: Biological Sciences, 272(1560), 253-258.
+Proctor, D., Williamson, R. A., de Waal, F. B., & Brosnan, S. F. (2013). Chimpanzees play the ultimatum game. Proceedings of the National Academy of Sciences, 110(6), 2070- 2075.
+Range, F., Horn, L., Viranyi, Z., & Huber, L. (2009). The absence of reward induces inequity aversion in dogs. Proceedings of the National Academy of Sciences, 106(1), 340-345. Oberliessen, L., Hernandez-Lallement, J., Schäble, S., van Wingerden, M., Seinstra, M., & Kalenscher, T. (2016). Inequity aversion in rats, Rattus norvegicus. Animal Behaviour, 115, 157-166.
+Hernandez-Lallement, J., van Wingerden, M., Marx, C., Srejic, M., & Kalenscher, T. (2015). Rats prefer mutual rewards in a prosocial choice task. Frontiers in neuroscience, 8, 443. Hernandez-Lallement, J., van Wingerden, M., Schäble, S., & Kalenscher, T. (2016). Basolateral amygdala lesions abolish mutual reward preferences in rats. Neurobiology of learning and memory, 127, 1-9.
+Part4  末彩蛋 4.1 沉没成本
+沉没成本谬误在 类社会 为 知，动物是否也存在类似的  性 为， 直存疑。近些 陆续 有研究者在鸽 和  上试图建 起 sunk cost 的 为模型，主要研究两种 cost: Time-delay 和 Effort investment，并逐渐达成共识:
+... have convincingly demonstrated sunk cost, and sunk time, effects in nonhuman animals.
+          
+ 研究者提出 two-process based theory 来解释这种 为:
+One process is contrast, which enhances the value of an alternative. A second process is depreciation of the initial investment, a process which could account for instances of the absence or even reversal of the sunk cost effect.
+参考 献:
+Magalhães, P., & Geoffrey White, K. (2016). The sunk cost effect across species: A review of persistence in a course of action due to prior investment. Journal of the experimental analysis of behavior, 105(3), 339-361.
+4.2 后 的  
+14  有 篇 regret in rats 的研究成为标题党。去 在柏 有幸 到 通讯作者，David Redish，听他洋洋得意地说起在美帝成为头条的  历程。Redish 没有在 regret 这个范式上继 续做下去，虽然范式本身(据我 板说)也存在着 定的缺陷。这次上头条，某种程度上也是  次成功的“炒作”，科学家名 双收，围观群众津津乐道，甚好甚好。
+研究者设计  个 Restaurant Row(如下图)，  进 每 个 形区域，等待 同时间(1s- 45s)，可以获得相应的 物(magenta=cherry, yellow=banana, black=
+nonflavored/plain, brown=chocolate)。 同的等待时间由 同频率的 tone 来表示，  们每 次只有 20 分钟的 餐时时间。
+ 
+如何定义后 :Rats occasionally skipped low-cost choices and then encountered a high-cost choice. This sequence economically defines a potential regret-inducing instance.
+他们同步记录  orbitofrontal cortex and ventral striatum 的神经元放电，并发现相较于错过的  物，  对于做出的错误决定(skipping low-cost choice)表现出 强 的反应。
+参考 献:
+   Steiner, A. P., & Redish, A. D. (2014). Behavioral and neurophysiological correlates of
+ 
+ regret in rat decision-making on a neuroeconomic task. Nature neuroscience, 17(7), 995- 1002.
+以上就是我准备的全部内容。抱歉使 中 夹英 的 式，希望尽可能讲得通俗，所以选择 中
+ ;但是有些专业的表述，翻译出来实在拗 。请 家 谅。
+谢谢 家。
